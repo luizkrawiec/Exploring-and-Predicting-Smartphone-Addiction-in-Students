@@ -59,7 +59,6 @@ Based on the insights gained, we suggest:
 ## 📁 Files
 
 - `From Exploration to Prediction Detecting Smartphone Addiction in Students.ipynb`: Full analysis and modeling
-- `README.md`: Project description
 - `Students Social Media Addiction.csv`: Input dataset (if allowed for distribution)
 
 ---
